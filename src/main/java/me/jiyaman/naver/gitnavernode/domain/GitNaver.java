@@ -5,4 +5,5 @@ public class GitNaver {
     String aaaaa;
     String 잠온다;
     String pushTest;
+    String 추가;
 }
