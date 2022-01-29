@@ -6,4 +6,5 @@ public class GitNaver {
     String 잠온다;
     String pushTest;
     String 추가;
+    String 정리해보자;
 }
